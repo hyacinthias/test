@@ -3,7 +3,6 @@
   <img src="https://github.com/hyacinthias/test/blob/main/chudganssilas.png" />
 </p>
 
-###### <p align="center"> ᴛʜᴇ ᴅᴏᴄᴛᴏʀ </p>
 <p align="center"> <a href="https://hyacinthias.atabook.org"> ᴀᴛᴀʙᴏᴏᴋ<a> 
 
 <p align="center"> // <a>
